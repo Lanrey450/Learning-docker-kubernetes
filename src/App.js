@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Docker and Kubernetes with Stephen Grider and Olusola Akinsulere. We are best friends.
         </a>
       </header>
     </div>
